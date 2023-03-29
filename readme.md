@@ -19,3 +19,14 @@ descripcion : se pensaran base de datos para diferentes escenarios
         - los cursos tendran unidades con : titulo,descripcion y fecha de inicio
 
         - los usuarios podran estar asociados a los cursos
+
+    desafio 2:
+    contenido del curso
+
+        -crear tabla clases, que contendra titulo, una descripcion, fecha de inicio y una marca de visibilidad
+
+        -las clases contendran bloques. los bloques tendran un titulo y una marca de visibilidad, pueden ser de diferentes tipos: texto, video, presentacion, pdf o archivo
+
+        -los bloques tambien tendran que poder guardar contenido sea texto o una url en caso de que el tipo sea video, presentancion, PDF o archivo
+
+        
