@@ -9,6 +9,9 @@ metodo de uso
 
 descripcion : se pensaran base de datos para diferentes escenarios
 
+
+escenario 1: digital house
+
     desafio 1: 
     usuarios y cursos
 
@@ -29,4 +32,12 @@ descripcion : se pensaran base de datos para diferentes escenarios
 
         -los bloques tambien tendran que poder guardar contenido sea texto o una url en caso de que el tipo sea video, presentancion, PDF o archivo
 
-        
+escenario 2: Bazar Digital
+
+    desafio 1:
+    base
+        - el bazar vendera vajilla,juguetes y articulos de jardin, tendrá empleados comunes, un coordinador, empleados de mostrador y repositores
+
+        -todos los articulos tendran nombre,precio,descripcion y stock, aclaran tambien si son de uso profesional
+
+        -Todos los empleados tendrán nombre, apellido, dni, sueldo y un rol.
