@@ -41,3 +41,13 @@ escenario 2: Bazar Digital
         -todos los articulos tendran nombre,precio,descripcion y stock, aclaran tambien si son de uso profesional
 
         -Todos los empleados tendrán nombre, apellido, dni, sueldo y un rol.
+
+    desafio 2:
+    stock y ventas
+        -los empleados de mostrador son los unicos que pueden cobrar y tendran una caja donde guardar el dinero, los repositores podran ir a la bodega de almacenamiento
+        
+        -tambien necesitamos saber cuandos productos estan exhibidos y en el deposito
+
+        - los empleados pueden vender un articulo generando una comision adicional del 10% del valor del articulo
+
+        - para las ventas esperamos almacenar fecha,articulos,medio de pago y total de la compra
